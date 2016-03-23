@@ -1,6 +1,6 @@
 ﻿(function (module) {
 
-    var alerting = function ($timeout) {
+    var alerting = function ($timeout) { 
 
         var currentAlerts = [];
         var alertTypes = ["Success", "Danger", "Warning", "Info"];
